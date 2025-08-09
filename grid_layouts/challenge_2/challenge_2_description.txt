@@ -1,0 +1,7 @@
+https://www.hashtagtreinamentos.com/
+
+The objective for Challenge 2 in this module (CSS Grid) is to turn the Hashtag blog posts into a Grid using what we've learned about Grid.
+
+Remember the knowledge we've acquired in this module to make this section even better!
+
+Have fun!
